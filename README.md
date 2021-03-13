@@ -3,6 +3,7 @@
 ## Web API
 
 - [Source](https://github.com/polympics/server)
+- [Deployed](https://api.polytopia.fun)
 - [Docs](https://polympics.github.io/server)
 
 ## Python Wrapper
