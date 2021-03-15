@@ -19,7 +19,7 @@
 - [Compiled](https://cdn.jsdelivr.net/npm/polympics@latest/dist/polympics.js)
 - [NPM](https://www.npmjs.com/package/polympics)
 
-## Static Site
+## Vue Site
 
-- [Source](https://github.com/polympics/static-web)
+- [Source](https://github.com/polympics/vue-site)
 - [Deployed](https://polytopia.fun)
