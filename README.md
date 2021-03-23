@@ -1,5 +1,15 @@
 # Polympics
 
+## CMS / Wiki
+
+- [Source](https://github.com/polympics/wiki)
+- [API](https://raw.githubusercontent.com/polympics/wiki/build/index.json)
+
+## Vue Site
+
+- [Source](https://github.com/polympics/vue-site)
+- [Deployed](https://polytopia.fun)
+
 ## Web API
 
 - [Source](https://github.com/polympics/server)
@@ -18,8 +28,3 @@
 - [Docs](https://polympics.github.io/typescript-wrapper)
 - [Compiled](https://cdn.jsdelivr.net/npm/polympics@latest/dist/polympics.js)
 - [NPM](https://www.npmjs.com/package/polympics)
-
-## Vue Site
-
-- [Source](https://github.com/polympics/vue-site)
-- [Deployed](https://polytopia.fun)
