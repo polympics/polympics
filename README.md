@@ -10,6 +10,12 @@
 - [Source](https://github.com/polympics/vue-site)
 - [Deployed](https://polytopia.fun)
 
+## Bot
+
+- [Source](https://github.com/polympics/bot)
+- [Invite](https://discord.com/api/oauth2/authorize?client_id=822436180439203861&redirect_uri=https%3A%2F%2Fpolytopia.fun%2Flogin%2Fcallback&scope=applications.commands)
+- [Backend](https://polympics-bot.artemis.workers.dev)
+
 ## Web API
 
 - [Source](https://github.com/polympics/server)
