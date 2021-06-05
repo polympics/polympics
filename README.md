@@ -19,7 +19,7 @@
 ## Web API
 
 - [Source](https://github.com/polympics/server)
-- [Deployed](https://api.polytopia.fun)
+- [Deployed](https://polympics.herokuapp.com)
 - [Docs](https://polympics.github.io/server)
 
 ## Python Wrapper
